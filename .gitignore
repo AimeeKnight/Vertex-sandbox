@@ -8,3 +8,5 @@
 **/venv
 **/.python-version
 **/node_modules
+.env
+build
